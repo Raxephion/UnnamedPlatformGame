@@ -1,0 +1,66 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/palms.tsx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/coin_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/crates.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/enemy_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/grass_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/palms.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/player_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/terrain_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "gem.tsx": {
+            "scaleInDock": 1
+        },
+        "level_0.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 1919.333333333333,
+                "y": 156.66666666666663
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/user/PHR Game App/levels/0",
+    "last.imagePath": "C:/Users/user/Desktop/Game App/2 - Level/graphics/terrain",
+    "map.height": 11,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 60,
+    "openFiles": [
+        "level_0.tmx",
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/palms.tsx"
+    ],
+    "project": "level0.tiled-project",
+    "recentFiles": [
+        "level_0.tmx",
+        "C:/Users/user/Game App - Copy/2 - Level/levels/tilesets/palms.tsx"
+    ],
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
